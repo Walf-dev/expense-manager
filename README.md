@@ -8,63 +8,63 @@
 
 *_In case you need to have a quick look at the app without creating an account, use the below credentials_*
 
-[Click Here For Demo](https://sad-shirley-6ef62f.netlify.com/)
+[Click Here For Demo](https://money-management-f57f8.web.app/)
 
-`Username : yogi15moto@gmail.com`
-`password : yogesh`
+`Username : starkwagni@gmail.com`
+`password : 123456`
 
 ## SCREENSHOTS
 
 #### Mobile Views
-[![Mobile Screens](https://i.postimg.cc/c1jZTXVX/mobile-Views.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Mobile Screens](https://i.postimg.cc/c1jZTXVX/mobile-Views.png)](https://money-management-f57f8.web.app/)
 
 #### Night Mode Home Page
-[![Night Mode Home](https://i.postimg.cc/mZVBMTwf/Home1.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Night Mode Home](https://i.postimg.cc/mZVBMTwf/Home1.png)](https://money-management-f57f8.web.app/)
 
 #### Month View Page Night Mode
-[![Night Mode Month](https://i.postimg.cc/jqvn50nC/MONTHLY-NIGHT-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Night Mode Month](https://i.postimg.cc/jqvn50nC/MONTHLY-NIGHT-MODE.png)](https://money-management-f57f8.web.app/)
 
 #### Daily View Night Mode
-[![Daily View](https://i.postimg.cc/BQQDcQfx/DAILY-NIGHT-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Daily View](https://i.postimg.cc/BQQDcQfx/DAILY-NIGHT-MODE.png)](https://money-management-f57f8.web.app/)
 
 #### Statistics Night Mode
-[![Statistics](https://i.postimg.cc/1tm5hXHB/STATISTICS-NIGHT-MODE2.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Statistics](https://i.postimg.cc/1tm5hXHB/STATISTICS-NIGHT-MODE2.png)](https://money-management-f57f8.web.app/)
 
 #### Saving Goals Night Mode
-[![Savings](https://i.postimg.cc/WbBNpX8h/SAVINGS-NIGHT-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Savings](https://i.postimg.cc/WbBNpX8h/SAVINGS-NIGHT-MODE.png)](https://money-management-f57f8.web.app/)
 
 #### Settings Night Mode
-[![Settings](https://i.postimg.cc/CLBMVWj3/SETTINGS-NIGHT-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Settings](https://i.postimg.cc/CLBMVWj3/SETTINGS-NIGHT-MODE.png)](https://money-management-f57f8.web.app/)
 
 #### Filter Night Mode
-[![Filter Page](https://i.postimg.cc/kM2rDJ8Y/FILTER-NIGHT-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Filter Page](https://i.postimg.cc/kM2rDJ8Y/FILTER-NIGHT-MODE.png)](https://money-management-f57f8.web.app/)
 
 #### Home Page Day Mode
-[![Home Page](https://i.postimg.cc/25XXmXdt/HOMEDAY4.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Home Page](https://i.postimg.cc/25XXmXdt/HOMEDAY4.png)](https://money-management-f57f8.web.app/)
 
 #### Monthly View Day Mode
-[![Monthly View](https://i.postimg.cc/qqmNZyH2/MONTH-VIEW-DAY.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Monthly View](https://i.postimg.cc/qqmNZyH2/MONTH-VIEW-DAY.png)](https://money-management-f57f8.web.app/)
 
 #### Daily View Day Mode
-[![Daily View](https://i.postimg.cc/cCT3yPwg/DAILY-DAY-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Daily View](https://i.postimg.cc/cCT3yPwg/DAILY-DAY-MODE.png)](https://money-management-f57f8.web.app/)
 
 #### Statistics Day Mode
-[![Statistics](https://i.postimg.cc/Wz43rzqz/STATISTICS-DAY-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Statistics](https://i.postimg.cc/Wz43rzqz/STATISTICS-DAY-MODE.png)](https://money-management-f57f8.web.app/)
 
 #### Loan Page Day Mode
-[![Loan Page](https://s25.postimg.cc/s16nf3kxb/loan.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Loan Page](https://s25.postimg.cc/s16nf3kxb/loan.png)](https://money-management-f57f8.web.app/)
 
 #### Saving Goals Day Mode
-[![Savings](https://i.postimg.cc/fRYwVmq5/SAVINGS-DAY-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Savings](https://i.postimg.cc/fRYwVmq5/SAVINGS-DAY-MODE.png)](https://money-management-f57f8.web.app/)
 
 #### Settings Day Mode
-[![Settings](https://i.postimg.cc/59k9TxF5/SETTINGS-DAY-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Settings](https://i.postimg.cc/59k9TxF5/SETTINGS-DAY-MODE.png)](https://money-management-f57f8.web.app/)
 
 #### Login Screen
-[![Login Page](https://s25.postimg.cc/jvolgx1tb/login.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Login Page](https://s25.postimg.cc/jvolgx1tb/login.png)](https://money-management-f57f8.web.app/)
 
 #### Calendar Component
-[![Calendar Component](https://i.postimg.cc/DyZ1TZnM/calendar-component.png)](https://sad-shirley-6ef62f.netlify.com/)
+[![Calendar Component](https://i.postimg.cc/DyZ1TZnM/calendar-component.png)](https://money-management-f57f8.web.app/)
 
 ## SETUP
 
