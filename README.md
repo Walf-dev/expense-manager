@@ -34,7 +34,7 @@
 [![Savings](https://i.postimg.cc/WbBNpX8h/SAVINGS-NIGHT-MODE.png)](https://money-management-f57f8.web.app/)
 
 #### Settings Night Mode
-[![Settings](https://i.postimg.cc/CLBMVWj3/SETTINGS-NIGHT-MODE.png)](https://money-management-f57f8.web.app/)
+[![Settings](https://i.postimg.cc/ydrHhkwd/expense-manager-night-mode.png)](https://money-management-f57f8.web.app/)
 
 #### Filter Night Mode
 [![Filter Page](https://i.postimg.cc/kM2rDJ8Y/FILTER-NIGHT-MODE.png)](https://money-management-f57f8.web.app/)
@@ -58,7 +58,7 @@
 [![Savings](https://i.postimg.cc/fRYwVmq5/SAVINGS-DAY-MODE.png)](https://money-management-f57f8.web.app/)
 
 #### Settings Day Mode
-[![Settings](https://i.postimg.cc/59k9TxF5/SETTINGS-DAY-MODE.png)](https://money-management-f57f8.web.app/)
+[![Settings](https://i.postimg.cc/ydrHhkwd/expense-manager-night-mode.png)](https://money-management-f57f8.web.app/)
 
 #### Login Screen
 [![Login Page](https://s25.postimg.cc/jvolgx1tb/login.png)](https://money-management-f57f8.web.app/)
