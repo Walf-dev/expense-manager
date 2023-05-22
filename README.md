@@ -6,12 +6,8 @@
 
 ## DEMO Account
 
-*_In case you need to have a quick look at the app without creating an account, use the below credentials_*
-
 [Click Here For Demo](https://money-management-f57f8.web.app/)
 
-`Username : starkwagni@gmail.com`
-`password : 123456`
 
 ## SCREENSHOTS
 
