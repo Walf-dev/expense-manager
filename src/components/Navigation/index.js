@@ -32,7 +32,7 @@ const NavigationAuth = props => {
         <nav style={props.settings.mode === "night" ? nightModeHeader : daymode}>
             <div className="navWide">
                 <ul className="navbar-nav">
-                    <h2 className="navbar-brand">Expense Manage</h2>
+                    <h2 className="navbar-brand">Expense Manager</h2>
                 </ul>
                 <div className="wideDiv">
                     <Link
